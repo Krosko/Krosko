@@ -1,1 +1,12 @@
-<h1 align="center">👁‍🗨👁‍🗨</h1>
+<h1 align="center">Terminal</h1>
+
+```
+###### macbook-jamie ~ >> whoiam
+###### Jamie
+###### macbook-jamie ~ >> interests -help
+MacOSX
+Python
+Swift
+Linux
+Shell
+Webdev
