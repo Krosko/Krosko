@@ -9,4 +9,3 @@ macbook-jamie ~ >> interests -help
  Swift
  Linux
  Shell
- Webdev
