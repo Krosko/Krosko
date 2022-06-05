@@ -2,11 +2,11 @@
 
 ``` 
 macbook-jamie ~ >> whoiam
-Jamie
+ Jamie
 macbook-jamie ~ >> interests -help
-MacOSX
-Python
-Swift
-Linux
-Shell
-Webdev
+ MacOSX
+ Python
+ Swift
+ Linux
+ Shell
+ Webdev
