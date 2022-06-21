@@ -9,3 +9,5 @@ macbook-jamie ~ >> interests -help
  Swift
  Linux
  Shell
+ JavaScript
+ ReactNative
