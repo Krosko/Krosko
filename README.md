@@ -5,9 +5,8 @@ macbook-jamie ~ >> whoiam
  Jamie
 macbook-jamie ~ >> interests -help
  MacOSX
- Python
- Swift
  Linux
  Shell
+ Python
+ Swift
  JavaScript
- ReactNative
